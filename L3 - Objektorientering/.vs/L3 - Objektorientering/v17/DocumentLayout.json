@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - objektorientering\\l3 - objektorientering\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C241C0DB-14F7-4F16-827F-A745FB31BAA1}|L3 - Objektorientering\\L3 - Objektorientering.csproj|solutionrelative:l3 - objektorientering\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\L3 - Objektorientering\\Rectangle.cs",
               "RelativeDocumentMoniker": "L3 - Objektorientering\\Rectangle.cs",
               "ToolTip": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\L3 - Objektorientering\\Rectangle.cs",
               "RelativeToolTip": "L3 - Objektorientering\\Rectangle.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T14:23:52.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\L3 - Objektorientering\\Circle.cs",
               "RelativeDocumentMoniker": "L3 - Objektorientering\\Circle.cs",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "L3 - Objektorientering\\Circle.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:16:07.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:16:07.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\L3 - Objektorientering\\Shape.cs",
               "RelativeDocumentMoniker": "L3 - Objektorientering\\Shape.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "L3 - Objektorientering\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:15:34.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:15:34.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Objektorientering\\L3 - Objektorientering\\Program.cs",
               "RelativeDocumentMoniker": "L3 - Objektorientering\\Program.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "L3 - Objektorientering\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAhwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:49:56.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T13:49:56.583Z"
             }
           ]
         }

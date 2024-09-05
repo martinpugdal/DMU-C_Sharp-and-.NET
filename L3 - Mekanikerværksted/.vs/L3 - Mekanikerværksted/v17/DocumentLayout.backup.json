@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - mekanikerv\u00E6rksted\\l3 - mekanikerv\u00E6rksted\\medarbejder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|solutionrelative:l3 - mekanikerv\u00E6rksted\\medarbejder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - mekanikerv\u00E6rksted\\l3 - mekanikerv\u00E6rksted\\mekaniker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|solutionrelative:l3 - mekanikerv\u00E6rksted\\mekaniker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - mekanikerv\u00E6rksted\\l3 - mekanikerv\u00E6rksted\\synsmand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|solutionrelative:l3 - mekanikerv\u00E6rksted\\synsmand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|c:\\users\\marti\\onedrive - efif\\dokumenter\\github\\dmu-c_sharp-and-.net\\l3 - mekanikerv\u00E6rksted\\l3 - mekanikerv\u00E6rksted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA29FBA-0A70-44AD-ADAE-9E0DF16C8FE5}|L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted.csproj|solutionrelative:l3 - mekanikerv\u00E6rksted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Medarbejder.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Medarbejder.cs",
+              "RelativeDocumentMoniker": "L3 - Mekanikerv\u00E6rksted\\Medarbejder.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Medarbejder.cs",
+              "RelativeToolTip": "L3 - Mekanikerv\u00E6rksted\\Medarbejder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mekaniker.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Mekaniker.cs",
+              "RelativeDocumentMoniker": "L3 - Mekanikerv\u00E6rksted\\Mekaniker.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Mekaniker.cs",
+              "RelativeToolTip": "L3 - Mekanikerv\u00E6rksted\\Mekaniker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:01.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Synsmand.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Synsmand.cs",
+              "RelativeDocumentMoniker": "L3 - Mekanikerv\u00E6rksted\\Synsmand.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Synsmand.cs",
+              "RelativeToolTip": "L3 - Mekanikerv\u00E6rksted\\Synsmand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:23:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Program.cs",
               "RelativeDocumentMoniker": "L3 - Mekanikerv\u00E6rksted\\Program.cs",
               "ToolTip": "C:\\Users\\Marti\\OneDrive - EFIF\\Dokumenter\\GitHub\\DMU-C_Sharp-and-.NET\\L3 - Mekanikerv\u00E6rksted\\L3 - Mekanikerv\u00E6rksted\\Program.cs",
               "RelativeToolTip": "L3 - Mekanikerv\u00E6rksted\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T15:14:04.247Z",
               "EditorCaption": ""

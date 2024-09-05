@@ -1,0 +1,14 @@
+﻿@{
+    var lists = new List<string>
+    {
+        "TimeCalculator",
+        "SimpleCalculator"
+    };
+}
+<h1>
+    Hurtige genveje til endpoints
+</h1>
+@foreach (var link in lists)
+{
+    <a href="@link">@link</a><br />
+}

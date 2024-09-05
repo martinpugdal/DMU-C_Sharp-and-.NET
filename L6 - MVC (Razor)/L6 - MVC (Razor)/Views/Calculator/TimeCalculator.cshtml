@@ -1,0 +1,25 @@
+﻿<h1>
+    Time Calculator (in seconds)
+</h1>
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <p>
+        @Html.Label("Hours") <br />
+        @Html.TextBox("Hours", "0")
+    </p>
+    <p>
+    </p>
+    <p>
+        @Html.Label("Minutes") <br />
+        @Html.TextBox("Minutes", "0")
+    </p>
+    <p>
+    </p>
+    <p>
+        @Html.Label("Seconds") <br />
+        @Html.TextBox("Seconds", "0")
+    </p>
+    <p>
+        <input type="submit" value="Calculate time" />
+    </p>
+}

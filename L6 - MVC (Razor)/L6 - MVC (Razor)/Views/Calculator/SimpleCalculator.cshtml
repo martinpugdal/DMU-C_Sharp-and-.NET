@@ -1,0 +1,37 @@
+﻿<style>
+    input {
+        margin-right: 5px;
+    }
+</style>
+<h1>
+    Simple Calculator
+</h1>
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <p>
+        @Html.TextBox("Number1", (string)ViewBag.Number1)
+    </p>
+    <p>
+    </p>
+    <p>
+        @Html.TextBox("Number2", (string)ViewBag.Number2)
+    </p>
+    <p>
+    </p>
+    <p>
+        <input type="submit" name="operator" value="+" />
+        <input type="submit" name="operator" value="-" />
+        <input type="submit" name="operator" value="*" />
+        <input type="submit" name="operator" value="/" />
+    </p>
+    <p>
+    </p>
+    @if (ViewBag.Result != null && ViewBag.Error == null)
+    {
+        <p>Result: @ViewBag.Result</p>
+    }
+    @if (ViewBag.Error != null)
+    {
+        <p>Fejl: @ViewBag.Error</p>
+    }
+}
