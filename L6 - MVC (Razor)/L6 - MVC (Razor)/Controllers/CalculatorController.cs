@@ -10,7 +10,6 @@ namespace L6___MVC__Blazor_.Controllers
             return View();
         }
 
-        [HttpGet]
         public IActionResult TimeCalculator()
         {
             return View();
@@ -34,13 +33,11 @@ namespace L6___MVC__Blazor_.Controllers
             return View("TimeCalculatorResult");
         }
 
-        [HttpGet]
         public IActionResult TimeCalculatorResult()
         {
             return View();
         }
 
-        [HttpGet]
         public IActionResult SimpleCalculator()
         {
             return View();

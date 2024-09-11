@@ -1,0 +1,16 @@
+﻿@using StartUp_CORE.Models
+@{
+    ViewBag.Title = "Personer";
+
+    @functions {
+        public void renderPerson(Person person)
+        {
+            <li>
+                @person
+            </li>
+        }
+    }
+}
+<ul>
+@foreach (Person person in ViewBag.Personer) { renderPerson(person); }
+</ul>

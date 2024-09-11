@@ -1,0 +1,31 @@
+﻿<div style="display: flex;">
+    <!-- Book Section -->
+    <div style="width: 40%;">
+        <p><strong>Title:</strong> @ViewBag.Book.Title</p>
+        <p><strong>Author:</strong> @ViewBag.Book.Author</p>
+        <p><strong>Price:</strong> @ViewBag.Book.Price</p>
+        <p><strong>Publisher:</strong> @ViewBag.Book.Publisher</p>
+        <p><strong>ISBN:</strong> @ViewBag.Book.ISBN</p>
+        @* <img src="path-to-your-book-image.jpg" alt="Book Cover" style="width: 100px;"> *@
+    </div>
+
+    <!-- Music Section -->
+    <div style="width: 40%;">
+        <p><strong>Title:</strong> @ViewBag.CD.Title</p>
+        <p><strong>Artist:</strong> @ViewBag.CD.Artist</p>
+        <p><strong>Price:</strong> @ViewBag.CD.Price</p>
+        <p><strong>Publisher:</strong> @ViewBag.CD.Label (@ViewBag.CD.Released)</p>
+        @* <img src="" alt="Album Cover" style="width: 100px;"> *@
+    </div>
+
+    <!-- Track Section -->
+    <div style="width: 20%;">
+        <h2>Tracks:</h2>
+        <ol>
+            @foreach (var track in ViewBag.CD.Tracks)
+            {
+                <li>@track</li>
+            }
+        </ol>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+﻿<div style="display: flex; justify-content: space-between; gap: 20px; padding: 20px;">
+    <div style="flex: 1;">
+        @foreach (MusicCD cd in ViewBag.CDs) { RenderCD(cd); }
+        @{
+            void RenderCD(MusicCD cd)
+            {
+                <div style="margin-bottom: 30px; width: 70%">
+                    <p><strong>Title:</strong> @cd.Title</p>
+                    <p><strong>Artist:</strong> @cd.Artist</p>
+                    <p><strong>Price:</strong> @cd.Price</p>
+                    <p><strong>Publisher:</strong> @cd.Label (@cd.Released)</p>
+                    @* <img src="" alt="Album Cover" style="width: 100px;"> *@
+
+                    <h2>Tracks:</h2>
+                    <ol>
+                        @foreach (var track in cd.TrackList)
+                        {
+                            <li>@track.Title (@track.Composer) @track.Length</li>
+                        }
+                    </ol>
+
+                    <p><strong>Total playing time:</strong> @cd.GetPlayingTime()</p>
+                </div>
+            }
+        }
+    </div>
+</div>

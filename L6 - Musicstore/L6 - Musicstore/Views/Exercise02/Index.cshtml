@@ -1,0 +1,40 @@
+﻿<div style="display: flex; justify-content: space-between; gap: 20px; padding: 20px;">
+    <!-- Book Section -->
+    <div style="flex: 1;">
+        @foreach(Book book in ViewBag.Books) { RenderBook(book); }
+        @{void RenderBook(Book book) {
+            <div style="margin-bottom: 30px;">
+                <p><strong>Title:</strong> @book.Title</p>
+                <p><strong>Author:</strong> @book.Author</p>
+                <p><strong>Price:</strong> @book.Price</p>
+                <p><strong>Publisher:</strong> @book.Publisher</p>
+                <p><strong>ISBN:</strong> @book.ISBN</p>
+                @* <img src="path-to-your-book-image.jpg" alt="Book Cover" style="width: 100px;"> *@
+            </div>
+        }}
+    </div>
+
+    <div style="flex: 1;">
+        @foreach (MusicCD cd in ViewBag.CDs) { RenderCD(cd); }
+        @{
+            void RenderCD(MusicCD cd)
+            {
+                <div style="margin-bottom: 30px; width: 70%">
+                    <p><strong>Title:</strong> @cd.Title</p>
+                    <p><strong>Artist:</strong> @cd.Artist</p>
+                    <p><strong>Price:</strong> @cd.Price</p>
+                    <p><strong>Publisher:</strong> @cd.Label (@cd.Released)</p>
+                    @* <img src="" alt="Album Cover" style="width: 100px;"> *@
+
+                    <h2>Tracks:</h2>
+                    <ol>
+                        @foreach (var track in cd.Tracks)
+                        {
+                            <li>@track</li>
+                        }
+                    </ol>
+                </div>
+            }
+        }
+    </div>
+</div>
