@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "EnPerson";
+}
+@model Person;
+<!--
+<div>
+    <h2>@Model.Id</h2>
+    <p>@Model.Name</p>
+</div>
+
+await Html.PartialAsync("_VisEnPerson", @Model)
+-->
+@await Component.InvokeAsync("VisEnPerson", @Model)
