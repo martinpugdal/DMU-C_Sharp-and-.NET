@@ -1,0 +1,12 @@
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="wpf_app___api_demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="API Client" Height="200" Width="300"
+    >
+    <StackPanel>
+        <Button Content="Get Personer" Click="GetPersoner_Click" Margin="10"/>
+        <Button Content="Get Person By Id" Click="GetPersonById_Click" Margin="10"/>
+        <Button Content="Add Person" Click="AddPerson_Click" Margin="10"/>
+    </StackPanel>
+</Window>

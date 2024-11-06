@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="L11___MAUI_introduktion.MainPage">
+
+    <StackLayout>
+        <Grid BackgroundColor="AliceBlue" WidthRequest="680" HeightRequest="480">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <BoxView Color="Green" />
+            <Label x:Name="L0" Text="Spiderman" HorizontalOptions="Center" VerticalOptions="Center" />
+
+            <BoxView Color="Red" Grid.Row="1" />
+            <Label x:Name="L2" Text="Superman" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" />
+
+            <BoxView Color="Green" Grid.Column="2" />
+            <Label x:Name="L1" Text="Batman" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" />
+
+            <BoxView Color="Red" Grid.Row="2" Grid.Column="2"/>
+            <Label x:Name="L3" Text="Ironman" Grid.Row="2" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" />
+
+            <!-- adding buttons to the middle grid, so its using for swapping row -->
+            <Button ClassId="swap1" x:Name="SWAP1" Text="Ombyt øverste" Grid.Column="1" Clicked="swap"  />
+            <Button ClassId="swap2" x:Name="SWAP2" Text="Ombyt nederste" Grid.Row="1" Grid.Column="1" Clicked="swap" />
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
